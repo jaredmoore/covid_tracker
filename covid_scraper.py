@@ -14,22 +14,22 @@ columns = ["school", "close_contact", "postive_case", "suspected_case", "total"]
 # Prompt user for the file website address.
 # Doesn't crash the most gracefully right now, but also
 # shouldn't corrupt the CSV data file.
-# print("Please enter the web url for the PDF you'd like to add.")
-# try:
-#     file_path = input()
-#     req = urllib.request.urlopen(file_path)
-# except urllib.error.HTTPError as e:
-#     print("Are you sure the website exists?")
-#     exit()
-# except urllib.error.URLError as e:
-#     print("Are you sure the website exists?")
-#     exit()
-# except ValueError as e:
-#     print("Are you sure the url is valid?")
-#     exit()
+print("Please enter the web url for the PDF you'd like to add.")
+try:
+    file_path = input()
+    req = urllib.request.urlopen(file_path)
+except urllib.error.HTTPError as e:
+    print("Are you sure the website exists?")
+    exit()
+except urllib.error.URLError as e:
+    print("Are you sure the website exists?")
+    exit()
+except ValueError as e:
+    print("Are you sure the url is valid?")
+    exit()
 
 # Use this to hardcode in the file to read.
-file_path = "/Users/moorejar/Desktop/8.27.2020-Local-School-COVID-19-Reporting-Daily-Report.eq.pdf"
+# file_path = "/Users/moorejar/Desktop/8.27.2020-Local-School-COVID-19-Reporting-Daily-Report.eq.pdf"
 
 # Read in Page 1, it contains two tables.
 # Table 1: New Cases Reported for the District
@@ -49,13 +49,11 @@ print(school_cases)
 # school information.
 for p in range(2,6):
     table = tabula.read_pdf(file_path, pages=p, guess=True)
-    print(table[0])
     table[0].columns = columns
     school_cases = pd.concat([school_cases, table[0]],)
 
 # Add a date column for the day's data.
 school_cases['date'] = file_path.split("/")[-1].split("-")[0].replace(".","/")
-print(school_cases.columns.values)
 
 # Reset the indexing for the school cases.
 school_cases.reset_index(drop=True, inplace=True)
