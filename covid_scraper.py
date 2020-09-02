@@ -34,23 +34,41 @@ except ValueError as e:
 # Read in Page 1, it contains two tables.
 # Table 1: New Cases Reported for the District
 # Table 2: New Cases Reported by School
-table = tabula.read_pdf(file_path, pages=1, multiple_tables=True, guess=True)
+# table = tabula.read_pdf(file_path, pages=1, multiple_tables=True)#, guess=True)
 
 # Keep the district cases from Table 1
-district_cases = table[0]
+# district_cases = table[0]
 
 # Keep the cases reported by school from Table 2
-school_cases = table[1]
-school_cases.columns = columns
+#school_cases = table[1]
+#school_cases = school_cases.dropna(axis=1, how='all')
+#print(school_cases)
+#school_cases.columns = columns
 
-print(school_cases)
+#print(school_cases)
 
 # Loop through the remaining pages to get the other
 # school information.
-for p in range(2,6):
-    table = tabula.read_pdf(file_path, pages=p, guess=True)
-    table[0].columns = columns
-    school_cases = pd.concat([school_cases, table[0]],)
+#for p in range(2,6):
+    # table = tabula.read_pdf(file_path, pages=p, guess=True)
+    # table[0].columns = columns
+    # school_cases = pd.concat([school_cases, table[0]],)
+
+# Read the entire PDF.
+# Break into the three tables.
+table = tabula.read_pdf(file_path, pages='all', guess=True, multiple_tables=True)
+
+# Keep the district cases from Table 0
+district_cases = table[0]
+
+# Merge the rest of the tables and then split them out at the location 
+# of Total as the value in the School column.
+# Otherwise tabula-py doesn't split them intelligently.
+school_cases = pd.DataFrame(columns=columns)
+for t in table[1:]:
+    t = t.dropna(axis=1, how='all')
+    t.columns = columns
+    school_cases = pd.concat([school_cases, t],)
 
 # Add a date column for the day's data.
 school_cases['date'] = file_path.split("/")[-1].split("-")[0].replace(".","/")
