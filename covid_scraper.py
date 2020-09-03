@@ -88,6 +88,10 @@ active_cases = school_cases.iloc[split_row:, :]
 # print("\n\n\n")
 # print(active_cases)
 
+# Open the cluster information.
+cluster_info = pd.read_csv("./cluster_draft.csv")
+cluster_info.columns = ['school', 'cluster', 'listed']
+
 # Write the data out to a file.
 # Want to avoid data duplication so will check 
 # if that day of data exists in the dataframe before writing data out.
@@ -98,6 +102,7 @@ if os.path.exists(new_cases_out_file):
     new_cases_all_data = pd.read_csv(new_cases_out_file)
     if not school_cases['date'].unique()[0] in new_cases_all_data['date'].unique():
         new_cases_all_data = pd.concat([new_cases_all_data, new_cases],)
+        new_cases = pd.merge(new_cases, cluster_info, on='school', how='inner')
         new_cases_all_data.to_csv(new_cases_out_file, index=False)
 else:
     new_cases.to_csv(new_cases_out_file,index=False)
@@ -109,6 +114,7 @@ if os.path.exists(active_cases_out_file):
     active_cases_all_data = pd.read_csv(active_cases_out_file)
     if not school_cases['date'].unique()[0] in active_cases_all_data['date'].unique():
         active_cases_all_data = pd.concat([active_cases_all_data, active_cases],)
+        active_cases = pd.merge(active_cases, cluster_info, on='school', how='inner')
         active_cases_all_data.to_csv(active_cases_out_file, index=False)
 else:
     active_cases.to_csv(active_cases_out_file,index=False)    
