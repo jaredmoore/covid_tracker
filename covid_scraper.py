@@ -101,8 +101,8 @@ if os.path.exists(new_cases_out_file):
     # Not memory efficient, but this data file shouldn't be terribly large.
     new_cases_all_data = pd.read_csv(new_cases_out_file)
     if not school_cases['date'].unique()[0] in new_cases_all_data['date'].unique():
-        new_cases_all_data = pd.concat([new_cases_all_data, new_cases],)
         new_cases = pd.merge(new_cases, cluster_info, on='school', how='inner')
+        new_cases_all_data = pd.concat([new_cases_all_data, new_cases],)
         new_cases_all_data.to_csv(new_cases_out_file, index=False)
 else:
     new_cases.to_csv(new_cases_out_file,index=False)
@@ -113,8 +113,8 @@ if os.path.exists(active_cases_out_file):
     # Not memory efficient, but this data file shouldn't be terribly large.
     active_cases_all_data = pd.read_csv(active_cases_out_file)
     if not school_cases['date'].unique()[0] in active_cases_all_data['date'].unique():
-        active_cases_all_data = pd.concat([active_cases_all_data, active_cases],)
         active_cases = pd.merge(active_cases, cluster_info, on='school', how='inner')
+        active_cases_all_data = pd.concat([active_cases_all_data, active_cases],)
         active_cases_all_data.to_csv(active_cases_out_file, index=False)
 else:
     active_cases.to_csv(active_cases_out_file,index=False)    
