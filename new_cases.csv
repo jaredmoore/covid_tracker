@@ -1,357 +1,345 @@
-school,close_contact,postive_case,suspected_case,total,date
-Archer HS,1.0,,,1.0,8/21/2020
-Baggett ES,1.0,,,1.0,8/21/2020
-Bethesda ES,1.0,,,1.0,8/21/2020
-Creekland MS,1.0,,1.0,2.0,8/21/2020
-Ferguson ES,,,1.0,1.0,8/21/2020
-GIVE East,1.0,,,1.0,8/21/2020
-Grace Snell MS,1.0,,,1.0,8/21/2020
-Graves ES,1.0,,,1.0,8/21/2020
-Harbins ES,1.0,,1.0,2.0,8/21/2020
-Harris ES,1.0,,,1.0,8/21/2020
-Hull MS,,1.0,2.0,3.0,8/21/2020
-Ivy Creek ES,1.0,,,1.0,8/21/2020
-Jordan MS,,1.0,,1.0,8/21/2020
-Kanoheda ES,,,1.0,1.0,8/21/2020
-Lanier HS,,,2.0,2.0,8/21/2020
-Lilburn ES,1.0,,,1.0,8/21/2020
-Magill ES,3.0,3.0,,6.0,8/21/2020
-Meadowcreek HS,,,2.0,2.0,8/21/2020
-Mountain View HS,,,1.0,1.0,8/21/2020
-Mulberry ES,4.0,,,4.0,8/21/2020
-Norcross HS,,,1.0,1.0,8/21/2020
-Parkview HS,,,1.0,1.0,8/21/2020
-Peachtree ES,1.0,,,1.0,8/21/2020
-Pharr ES,5.0,,1.0,6.0,8/21/2020
-Puckett's Mill ES,1.0,,,1.0,8/21/2020
-Stripling ES,,,1.0,1.0,8/21/2020
-Sugar Hill ES,1.0,,,1.0,8/21/2020
-Total,26.0,5.0,15.0,46.0,8/21/2020
-Benefield ES,1.0,,,1.0,8/24/2020
-Centerville ES,,,1.0,1.0,8/24/2020
-Cooper ES,1.0,,,1.0,8/24/2020
-Duluth MS,1.0,,,1.0,8/24/2020
-GIVE East,1.0,,1.0,2.0,8/24/2020
-Lilburn MS,1.0,,,1.0,8/24/2020
-Magill ES,5.0,,,5.0,8/24/2020
-Maxwell HS of Technology,1.0,,1.0,2.0,8/24/2020
-Meadowcreek HS,,,1.0,1.0,8/24/2020
-Northbrook MS,,1.0,,1.0,8/24/2020
-Norton ES,,,1.0,1.0,8/24/2020
-Peachtree ES,1.0,,,1.0,8/24/2020
-Snellville MS,1.0,,1.0,2.0,8/24/2020
-South Gwinnett HS,,1.0,,1.0,8/24/2020
-Taylor ES,,,1.0,1.0,8/24/2020
-Woodward Mill ES,,,1.0,1.0,8/24/2020
-Total,13.0,2.0,8.0,23.0,8/24/2020
-Alcova ES,0.0,0.0,2.0,2.0,8/28/2020
-Annistown ES,0.0,0.0,1.0,1.0,8/28/2020
-Arcado ES,0.0,0.0,1.0,1.0,8/28/2020
-Benefield ES,1.0,0.0,4.0,5.0,8/28/2020
-Berkmar HS,1.0,0.0,0.0,1.0,8/28/2020
-Buice Center,0.0,0.0,11.0,11.0,8/28/2020
-Chattahoochee ES,1.0,0.0,0.0,1.0,8/28/2020
-Creekland MS,1.0,0.0,0.0,1.0,8/28/2020
-Duluth HS,4.0,0.0,2.0,6.0,8/28/2020
-Duluth MS,5.0,0.0,1.0,6.0,8/28/2020
-Duncan Creek ES,0.0,1.0,0.0,1.0,8/28/2020
-Dyer ES,0.0,0.0,2.0,2.0,8/28/2020
-Freeman's Mill ES,1.0,0.0,1.0,2.0,8/28/2020
-GIVE East,1.0,0.0,0.0,1.0,8/28/2020
-Graves ES,1.0,0.0,0.0,1.0,8/28/2020
-Ivy Creek ES,0.0,0.0,1.0,1.0,8/28/2020
-Kanoheda ES,1.0,0.0,1.0,2.0,8/28/2020
-Knight ES,1.0,0.0,0.0,1.0,8/28/2020
-Lanier HS,1.0,0.0,0.0,1.0,8/28/2020
-Lilburn MS,1.0,0.0,1.0,2.0,8/28/2020
-Meadowcreek HS,1.0,0.0,0.0,1.0,8/28/2020
-Moore MS,1.0,0.0,0.0,1.0,8/28/2020
-Mulberry ES,0.0,0.0,1.0,1.0,8/28/2020
-North Gwinnett HS,0.0,0.0,1.0,1.0,8/28/2020
-North Gwinnett MS,0.0,0.0,1.0,1.0,8/28/2020
-Osborne MS,3.0,1.0,0.0,4.0,8/28/2020
-Parkview HS,0.0,1.0,1.0,2.0,8/28/2020
-Peachtree Ridge HS,0.0,0.0,1.0,1.0,8/28/2020
-Rock Springs ES,1.0,0.0,0.0,1.0,8/28/2020
-Shiloh ES,0.0,1.0,0.0,1.0,8/28/2020
-Shiloh HS,0.0,0.0,1.0,1.0,8/28/2020
-South Gwinnett HS,0.0,0.0,1.0,1.0,8/28/2020
-Sycamore ES,0.0,0.0,1.0,1.0,8/28/2020
-Winn Holt ES,7.0,0.0,1.0,8.0,8/28/2020
-Total,33.0,4.0,37.0,74.0,8/28/2020
-Archer HS,1.0,0.0,0.0,1.0,8/31/2020
-Berkmar HS,0.0,0.0,1.0,1.0,8/31/2020
-Buice Center,6.0,0.0,5.0,11.0,8/31/2020
-Cooper ES,1.0,0.0,0.0,1.0,8/31/2020
-Dacula ES,1.0,0.0,0.0,1.0,8/31/2020
-Dacula HS,1.0,0.0,0.0,1.0,8/31/2020
-Duluth HS,0.0,0.0,1.0,1.0,8/31/2020
-Duluth MS,1.0,0.0,0.0,1.0,8/31/2020
-Duncan Creek ES,1.0,0.0,0.0,1.0,8/31/2020
-Dyer ES,5.0,0.0,1.0,6.0,8/31/2020
-Fort Daniel ES,1.0,0.0,0.0,1.0,8/31/2020
-Freeman's Mill ES,1.0,0.0,1.0,2.0,8/31/2020
-Harbins ES,1.0,0.0,0.0,1.0,8/31/2020
-Hull MS,1.0,0.0,0.0,1.0,8/31/2020
-Ivy Creek ES,0.0,0.0,1.0,1.0,8/31/2020
-Jones MS,1.0,0.0,0.0,1.0,8/31/2020
-Lawrenceville ES,5.0,0.0,1.0,6.0,8/31/2020
-Lilburn MS,8.0,0.0,6.0,14.0,8/31/2020
-McConnell MS,0.0,0.0,1.0,1.0,8/31/2020
-Meadowcreek HS,0.0,0.0,2.0,2.0,8/31/2020
-Mountain View HS,5.0,0.0,1.0,6.0,8/31/2020
-Norcross ES,1.0,0.0,0.0,1.0,8/31/2020
-North Gwinnett MS,1.0,0.0,0.0,1.0,8/31/2020
-Oakland Meadow School,0.0,0.0,1.0,1.0,8/31/2020
-Osborne MS,2.0,0.0,0.0,2.0,8/31/2020
-Puckett's Mill ES,0.0,0.0,1.0,1.0,8/31/2020
-Radloff MS,1.0,0.0,0.0,1.0,8/31/2020
-Richards MS,7.0,0.0,3.0,10.0,8/31/2020
-Riverside ES,1.0,0.0,0.0,1.0,8/31/2020
-Roberts ES,0.0,1.0,0.0,1.0,8/31/2020
-South Gwinnett HS,2.0,0.0,1.0,3.0,8/31/2020
-Taylor ES,0.0,0.0,1.0,1.0,8/31/2020
-Twin Rivers MS,26.0,0.0,2.0,28.0,8/31/2020
-Winn Holt ES,0.0,0.0,1.0,1.0,8/31/2020
-Woodward Mill ES,1.0,0.0,0.0,1.0,8/31/2020
-Total,82.0,1.0,31.0,114.0,8/31/2020
-Archer HS,,,1.0,1.0,8/18/2020
-Baggett ES,1.0,,,1.0,8/18/2020
-Berkmar HS,,,1.0,1.0,8/18/2020
-Buice Center,,,1.0,1.0,8/18/2020
-Camp Creek ES,,,2.0,2.0,8/18/2020
-Collins Hill HS,,,1.0,1.0,8/18/2020
-Crews MS,,1.0,,1.0,8/18/2020
-Dacula ES,1.0,,,1.0,8/18/2020
-Duluth HS,3.0,,2.0,5.0,8/18/2020
-Duncan Creek ES,2.0,,,2.0,8/18/2020
-Grayson ES,1.0,1.0,,2.0,8/18/2020
-Grayson HS,,,3.0,3.0,8/18/2020
-Knight ES,,,1.0,1.0,8/18/2020
-Meadowcreek HS,1.0,,1.0,2.0,8/18/2020
-Mill Creek HS,1.0,,,1.0,8/18/2020
-Norcross HS,,,1.0,1.0,8/18/2020
-North Gwinnett MS,,,1.0,1.0,8/18/2020
-Parkview HS,5.0,,2.0,7.0,8/18/2020
-Peachtree Ridge HS,,1.0,,1.0,8/18/2020
-Richards MS,,,1.0,1.0,8/18/2020
-Rock Springs ES,,,1.0,1.0,8/18/2020
-Sweetwater MS,,,1.0,1.0,8/18/2020
-Harbins ES,,,1.0,1.0,8/18/2020
-Kanoheda ES,2.0,,,2.0,8/18/2020
-Total,17.0,3.0,21.0,41.0,8/18/2020
-Annistown ES,1.0,,,1.0,8/19/2020
-Beaver Ridge ES,,1.0,,1.0,8/19/2020
-Britt ES,,,2.0,2.0,8/19/2020
-Cedar Hill ES,,,1.0,1.0,8/19/2020
-Collins Hill HS,2.0,,,2.0,8/19/2020
-Cooper ES,,,1.0,1.0,8/19/2020
-Discovery HS,,,1.0,1.0,8/19/2020
-Duluth HS,1.0,,1.0,2.0,8/19/2020
-Grayson ES,,1.0,,1.0,8/19/2020
-Ivy Creek ES,1.0,,,1.0,8/19/2020
-Jordan MS,2.0,,2.0,4.0,8/19/2020
-Lilburn MS,1.0,,1.0,2.0,8/19/2020
-Meadowcreek HS,,,2.0,2.0,8/19/2020
-Osborne MS,1.0,,,1.0,8/19/2020
-Parkview HS,,,1.0,1.0,8/19/2020
-Partee ES,,1.0,,1.0,8/19/2020
-Peachtree Ridge HS,,,1.0,1.0,8/19/2020
-Rock Springs ES,,,1.0,1.0,8/19/2020
-Stripling ES,,,1.0,1.0,8/19/2020
-Summerour MS,1.0,,,1.0,8/19/2020
-Winn Holt ES,,,1.0,1.0,8/19/2020
-Woodward Mill ES,1.0,,2.0,3.0,8/19/2020
-Peachtree ES,1.0,,,1.0,8/19/2020
-Anderson-Livsey ES,2.0,3.0,,5.0,8/19/2020
-Total,14.0,6.0,18.0,38.0,8/19/2020
-Alcova ES,,,1.0,1.0,8/20/2020
-Archer HS,1.0,,,1.0,8/20/2020
-Berkmar HS,1.0,,,1.0,8/20/2020
-Bethesda ES,1.0,,,1.0,8/20/2020
-Camp Creek ES,,,1.0,1.0,8/20/2020
-Cedar Hill ES,1.0,,1.0,2.0,8/20/2020
-Dacula MS,1.0,,,1.0,8/20/2020
-Discovery HS,,,1.0,1.0,8/20/2020
-Duluth HS,1.0,1.0,,2.0,8/20/2020
-Dyer ES,1.0,,,1.0,8/20/2020
-Freeman's Mill ES,2.0,,,2.0,8/20/2020
-Grace Snell MS,1.0,,,1.0,8/20/2020
-Harbins ES,2.0,,,2.0,8/20/2020
-Kanoheda ES,,,1.0,1.0,8/20/2020
-Lilburn MS,1.0,,,1.0,8/20/2020
-Mason ES,,,1.0,1.0,8/20/2020
-Meadowcreek HS,,,1.0,1.0,8/20/2020
-Minor ES,1.0,,1.0,2.0,8/20/2020
-Nesbit ES,1.0,,,1.0,8/20/2020
-Norcross HS,,,1.0,1.0,8/20/2020
-North Gwinnett HS,,,1.0,1.0,8/20/2020
-North Gwinnett MS,1.0,,,1.0,8/20/2020
-Osborne MS,,1.0,,1.0,8/20/2020
-Parkview HS,1.0,,,1.0,8/20/2020
-Stripling ES,,,1.0,1.0,8/20/2020
-Summerour MS,,,1.0,1.0,8/20/2020
-Twin Rivers MS,2.0,,1.0,3.0,8/20/2020
-Walnut Grove ES,1.0,,,1.0,8/20/2020
-Winn Holt ES,,,1.0,1.0,8/20/2020
-Total,20.0,2.0,14.0,36.0,8/20/2020
-Anderson-Livsey ES,,1.0,,1.0,8/25/2020
-Archer HS,1.0,,,1.0,8/25/2020
-Baldwin ES,,,1.0,1.0,8/25/2020
-Bay Creek MS,,,1.0,1.0,8/25/2020
-Brookwood HS,1.0,,1.0,2.0,8/25/2020
-Buice Center,,,1.0,1.0,8/25/2020
-Dacula MS,,1.0,,1.0,8/25/2020
-Discovery HS,,,2.0,2.0,8/25/2020
-Duluth HS,1.0,,,1.0,8/25/2020
-Graves ES,1.0,,,1.0,8/25/2020
-Harbins ES,2.0,,,2.0,8/25/2020
-Hull MS,,,2.0,2.0,8/25/2020
-Ivy Creek ES,,1.0,,1.0,8/25/2020
-Jordan MS,,1.0,2.0,3.0,8/25/2020
-Lilburn MS,,,1.0,1.0,8/25/2020
-Meadowcreek ES,1.0,,,1.0,8/25/2020
-Meadowcreek HS,,,1.0,1.0,8/25/2020
-Mulberry ES,1.0,,3.0,4.0,8/25/2020
-Norton ES,1.0,,,1.0,8/25/2020
-Oakland Meadow School,3.0,,1.0,4.0,8/25/2020
-Phoenix HS,,,1.0,1.0,8/25/2020
-Pinckneyville MS,1.0,,,1.0,8/25/2020
-Shiloh HS,2.0,,,2.0,8/25/2020
-South Gwinnett HS,3.0,,,3.0,8/25/2020
-Summerour MS,1.0,,,1.0,8/25/2020
-Sweetwater MS,,1.0,,1.0,8/25/2020
-Winn Holt ES,,,1.0,1.0,8/25/2020
-Total,19.0,5.0,18.0,42.0,8/25/2020
-Baggett ES,,,3.0,3.0,8/26/2020
-Berkmar HS,1.0,,,1.0,8/26/2020
-Brookwood HS,1.0,,,1.0,8/26/2020
-Crews MS,,,1.0,1.0,8/26/2020
-Dacula ES,1.0,,,1.0,8/26/2020
-Duluth MS,,,1.0,1.0,8/26/2020
-Grayson ES,,,1.0,1.0,8/26/2020
-Harbins ES,3.0,,,3.0,8/26/2020
-Jones MS,1.0,,3.0,4.0,8/26/2020
-Lilburn ES,1.0,,,1.0,8/26/2020
-Lilburn MS,1.0,,,1.0,8/26/2020
-Meadowcreek ES,,,1.0,1.0,8/26/2020
-Meadowcreek HS,,,1.0,1.0,8/26/2020
-Mill Creek HS,1.0,,,1.0,8/26/2020
-Norcross ES,3.0,,1.0,4.0,8/26/2020
-Norcross HS,1.0,,1.0,2.0,8/26/2020
-Oakland Meadow School,1.0,,,1.0,8/26/2020
-Pharr ES,1.0,,,1.0,8/26/2020
-Richards MS,,,1.0,1.0,8/26/2020
-Rockbridge ES,2.0,,,2.0,8/26/2020
-Rosebud ES,,,1.0,1.0,8/26/2020
-Shiloh ES,1.0,,2.0,3.0,8/26/2020
-South Gwinnett HS,1.0,,,1.0,8/26/2020
-Winn Holt ES,,,1.0,1.0,8/26/2020
-Total,20.0,0.0,18.0,38.0,8/26/2020
-Arcado ES,0.0,0.0,1.0,1.0,9/1/2020
-Archer HS,0.0,0.0,1.0,1.0,9/1/2020
-Baggett ES,4.0,0.0,1.0,5.0,9/1/2020
-Beaver Ridge ES,0.0,0.0,1.0,1.0,9/1/2020
-Benefield ES,0.0,1.0,0.0,1.0,9/1/2020
-Berkeley Lake ES,1.0,0.0,0.0,1.0,9/1/2020
-Berkmar HS,70.0,1.0,3.0,74.0,9/1/2020
-Brookwood ES,2.0,0.0,1.0,3.0,9/1/2020
-Brookwood HS,0.0,0.0,1.0,1.0,9/1/2020
-Burnette ES,1.0,0.0,0.0,1.0,9/1/2020
-Camp Creek ES,1.0,0.0,0.0,1.0,9/1/2020
-Central Gwinnett HS,2.0,0.0,1.0,3.0,9/1/2020
-Chesney ES,0.0,0.0,1.0,1.0,9/1/2020
-Collins Hill HS,1.0,0.0,0.0,1.0,9/1/2020
-Creekland MS,6.0,0.0,1.0,7.0,9/1/2020
-Dacula ES,6.0,0.0,5.0,11.0,9/1/2020
-Dacula MS,2.0,0.0,1.0,3.0,9/1/2020
-Duluth MS,0.0,0.0,2.0,2.0,9/1/2020
-Duncan Creek ES,2.0,0.0,0.0,2.0,9/1/2020
-Dyer ES,1.0,0.0,0.0,1.0,9/1/2020
-Fort Daniel ES,0.0,0.0,1.0,1.0,9/1/2020
-Grace Snell MS,20.0,0.0,1.0,21.0,9/1/2020
-Graves ES,0.0,0.0,1.0,1.0,9/1/2020
-Gwin Oaks ES,1.0,0.0,0.0,1.0,9/1/2020
-Gwinnett Online Campus,1.0,0.0,0.0,1.0,9/1/2020
-"Gwinnett School of Mathematics,",0.0,0.0,1.0,1.0,9/1/2020
-Science and Technology,,,,,9/1/2020
-Harbins ES,1.0,0.0,0.0,1.0,9/1/2020
-Harmony ES,1.0,0.0,0.0,1.0,9/1/2020
-Ivy Creek ES,0.0,0.0,1.0,1.0,9/1/2020
-Jackson ES,1.0,0.0,1.0,2.0,9/1/2020
-Jones MS,2.0,0.0,0.0,2.0,9/1/2020
-Jordan MS,1.0,0.0,2.0,3.0,9/1/2020
-Kanoheda ES,0.0,0.0,1.0,1.0,9/1/2020
-Knight ES,1.0,0.0,0.0,1.0,9/1/2020
-Lovin ES,5.0,0.0,2.0,7.0,9/1/2020
-McConnell MS,1.0,0.0,1.0,2.0,9/1/2020
-Meadowcreek HS,5.0,0.0,2.0,7.0,9/1/2020
-Mill Creek HS,2.0,0.0,1.0,3.0,9/1/2020
-Minor ES,1.0,1.0,0.0,2.0,9/1/2020
-Moore MS,4.0,0.0,1.0,5.0,9/1/2020
-Mountain View HS,0.0,0.0,4.0,4.0,9/1/2020
-Mulberry ES,8.0,0.0,4.0,12.0,9/1/2020
-Nesbit ES,0.0,0.0,1.0,1.0,9/1/2020
-Norcross ES,6.0,0.0,4.0,10.0,9/1/2020
-North Gwinnett HS,1.0,0.0,1.0,2.0,9/1/2020
-Oakland Meadow School,1.0,0.0,1.0,2.0,9/1/2020
-Osborne MS,2.0,0.0,0.0,2.0,9/1/2020
-Parkview HS,1.0,0.0,1.0,2.0,9/1/2020
-Peachtree Ridge HS,0.0,0.0,1.0,1.0,9/1/2020
-Pharr ES,1.0,0.0,0.0,1.0,9/1/2020
-Puckett's Mill ES,1.0,0.0,1.0,2.0,9/1/2020
-Radloff MS,1.0,0.0,0.0,1.0,9/1/2020
-Richards MS,0.0,0.0,4.0,4.0,9/1/2020
-Riverside ES,0.0,0.0,1.0,1.0,9/1/2020
-Rock Springs ES,6.0,0.0,0.0,6.0,9/1/2020
-Rockbridge ES,2.0,0.0,0.0,2.0,9/1/2020
-Simonton ES,0.0,0.0,1.0,1.0,9/1/2020
-Sugar Hill ES,0.0,0.0,1.0,1.0,9/1/2020
-Sweetwater MS,0.0,0.0,1.0,1.0,9/1/2020
-Trickum MS,2.0,0.0,2.0,4.0,9/1/2020
-Trip ES,0.0,0.0,2.0,2.0,9/1/2020
-Twin Rivers MS,1.0,1.0,0.0,2.0,9/1/2020
-Total,179.0,4.0,66.0,249.0,9/1/2020
-Archer HS,1.0,0.0,2.0,3.0,9/2/2020
-Baggett ES,7.0,1.0,1.0,9.0,9/2/2020
-Bay Creek MS,1.0,0.0,0.0,1.0,9/2/2020
-Berkeley Lake ES,1.0,0.0,4.0,5.0,9/2/2020
-Berkmar HS,9.0,0.0,0.0,9.0,9/2/2020
-Britt ES,2.0,0.0,2.0,4.0,9/2/2020
-Brookwood HS,1.0,0.0,0.0,1.0,9/2/2020
-Dacula ES,1.0,0.0,0.0,1.0,9/2/2020
-Dacula HS,1.0,0.0,0.0,1.0,9/2/2020
-Discovery HS,1.0,0.0,0.0,1.0,9/2/2020
-Duluth HS,1.0,0.0,0.0,1.0,9/2/2020
-Dyer ES,2.0,0.0,1.0,3.0,9/2/2020
-Fort Daniel ES,0.0,0.0,1.0,1.0,9/2/2020
-GIVE West,3.0,0.0,1.0,4.0,9/2/2020
-Grace Snell MS,2.0,0.0,0.0,2.0,9/2/2020
-Grayson HS,1.0,0.0,0.0,1.0,9/2/2020
-"Gwinnett School of Mathematics,",0.0,0.0,1.0,1.0,9/2/2020
-"Science, and Technology",,,,,9/2/2020
-Harbins ES,4.0,0.0,0.0,4.0,9/2/2020
-Jenkins ES,20.0,0.0,1.0,21.0,9/2/2020
-Kanoheda ES,1.0,0.0,0.0,1.0,9/2/2020
-Knight ES,0.0,0.0,1.0,1.0,9/2/2020
-Lilburn MS,0.0,0.0,2.0,2.0,9/2/2020
-McConnell MS,0.0,0.0,3.0,3.0,9/2/2020
-Meadowcreek HS,1.0,0.0,1.0,2.0,9/2/2020
-Mill Creek HS,20.0,1.0,0.0,21.0,9/2/2020
-Mountain View HS,2.0,0.0,1.0,3.0,9/2/2020
-Mulberry ES,0.0,0.0,2.0,2.0,9/2/2020
-Norcross ES,0.0,0.0,1.0,1.0,9/2/2020
-Norcross HS,0.0,0.0,1.0,1.0,9/2/2020
-North Gwinnett HS,3.0,0.0,1.0,4.0,9/2/2020
-North Gwinnett MS,1.0,0.0,0.0,1.0,9/2/2020
-Oakland Meadow School,2.0,0.0,0.0,2.0,9/2/2020
-Peachtree Ridge HS,3.0,0.0,0.0,3.0,9/2/2020
-Pharr ES,1.0,0.0,0.0,1.0,9/2/2020
-Richards MS,0.0,0.0,1.0,1.0,9/2/2020
-Rock Springs ES,0.0,0.0,1.0,1.0,9/2/2020
-South Gwinnett HS,10.0,0.0,1.0,11.0,9/2/2020
-Sugar Hill ES,0.0,0.0,1.0,1.0,9/2/2020
-Summerour MS,0.0,0.0,1.0,1.0,9/2/2020
-Trip ES,1.0,0.0,0.0,1.0,9/2/2020
-Winn Holt ES,0.0,0.0,1.0,1.0,9/2/2020
-Total,103.0,2.0,33.0,138.0,9/2/2020
+school,close_contact,postive_case,suspected_case,total,date,cluster,listed
+Archer HS,1.0,,,1.0,8/21/2020,Archer,yes
+Archer HS,1.0,0.0,0.0,1.0,8/31/2020,Archer,yes
+Archer HS,,,1.0,1.0,8/18/2020,Archer,yes
+Archer HS,1.0,,,1.0,8/20/2020,Archer,yes
+Archer HS,1.0,,,1.0,8/25/2020,Archer,yes
+Archer HS,0.0,0.0,1.0,1.0,9/1/2020,Archer,yes
+Archer HS,1.0,0.0,2.0,3.0,9/2/2020,Archer,yes
+Baggett ES,1.0,,,1.0,8/21/2020,Discovery,yes
+Baggett ES,1.0,,,1.0,8/18/2020,Discovery,yes
+Baggett ES,,,3.0,3.0,8/26/2020,Discovery,yes
+Baggett ES,4.0,0.0,1.0,5.0,9/1/2020,Discovery,yes
+Baggett ES,7.0,1.0,1.0,9.0,9/2/2020,Discovery,yes
+Bethesda ES,1.0,,,1.0,8/21/2020,Berkmar,yes
+Bethesda ES,1.0,,,1.0,8/20/2020,Berkmar,yes
+Creekland MS,1.0,,1.0,2.0,8/21/2020,Collins Hill,yes
+Creekland MS,1.0,0.0,0.0,1.0,8/28/2020,Collins Hill,yes
+Creekland MS,6.0,0.0,1.0,7.0,9/1/2020,Collins Hill,yes
+Ferguson ES,,,1.0,1.0,8/21/2020,Meadowcreek,yes
+GIVE East,1.0,,,1.0,8/21/2020,Other,yes
+GIVE East,1.0,,1.0,2.0,8/24/2020,Other,yes
+GIVE East,1.0,0.0,0.0,1.0,8/28/2020,Other,yes
+Grace Snell MS,1.0,,,1.0,8/21/2020,South Gwinnett,yes
+Grace Snell MS,1.0,,,1.0,8/20/2020,South Gwinnett,yes
+Grace Snell MS,20.0,0.0,1.0,21.0,9/1/2020,South Gwinnett,yes
+Grace Snell MS,2.0,0.0,0.0,2.0,9/2/2020,South Gwinnett,yes
+Graves ES,1.0,,,1.0,8/21/2020,Meadowcreek,yes
+Graves ES,1.0,0.0,0.0,1.0,8/28/2020,Meadowcreek,yes
+Graves ES,1.0,,,1.0,8/25/2020,Meadowcreek,yes
+Graves ES,0.0,0.0,1.0,1.0,9/1/2020,Meadowcreek,yes
+Harbins ES,1.0,,1.0,2.0,8/21/2020,Archer,yes
+Harbins ES,1.0,0.0,0.0,1.0,8/31/2020,Archer,yes
+Harbins ES,,,1.0,1.0,8/18/2020,Archer,yes
+Harbins ES,2.0,,,2.0,8/20/2020,Archer,yes
+Harbins ES,2.0,,,2.0,8/25/2020,Archer,yes
+Harbins ES,3.0,,,3.0,8/26/2020,Archer,yes
+Harbins ES,1.0,0.0,0.0,1.0,9/1/2020,Archer,yes
+Harbins ES,4.0,0.0,0.0,4.0,9/2/2020,Archer,yes
+Harris ES,1.0,,,1.0,8/21/2020,Duluth,added
+Hull MS,,1.0,2.0,3.0,8/21/2020,Peachtree Ridge,yes
+Hull MS,1.0,0.0,0.0,1.0,8/31/2020,Peachtree Ridge,yes
+Hull MS,,,2.0,2.0,8/25/2020,Peachtree Ridge,yes
+Ivy Creek ES,1.0,,,1.0,8/21/2020,Mill Creek,yes
+Ivy Creek ES,0.0,0.0,1.0,1.0,8/28/2020,Mill Creek,yes
+Ivy Creek ES,0.0,0.0,1.0,1.0,8/31/2020,Mill Creek,yes
+Ivy Creek ES,1.0,,,1.0,8/19/2020,Mill Creek,yes
+Ivy Creek ES,,1.0,,1.0,8/25/2020,Mill Creek,yes
+Ivy Creek ES,0.0,0.0,1.0,1.0,9/1/2020,Mill Creek,yes
+Jordan MS,,1.0,,1.0,8/21/2020,Central Gwinnett,yes
+Jordan MS,2.0,,2.0,4.0,8/19/2020,Central Gwinnett,yes
+Jordan MS,,1.0,2.0,3.0,8/25/2020,Central Gwinnett,yes
+Jordan MS,1.0,0.0,2.0,3.0,9/1/2020,Central Gwinnett,yes
+Kanoheda ES,,,1.0,1.0,8/21/2020,Berkmar,yes
+Kanoheda ES,1.0,0.0,1.0,2.0,8/28/2020,Berkmar,yes
+Kanoheda ES,2.0,,,2.0,8/18/2020,Berkmar,yes
+Kanoheda ES,,,1.0,1.0,8/20/2020,Berkmar,yes
+Kanoheda ES,0.0,0.0,1.0,1.0,9/1/2020,Berkmar,yes
+Kanoheda ES,1.0,0.0,0.0,1.0,9/2/2020,Berkmar,yes
+Lanier HS,,,2.0,2.0,8/21/2020,Lanier,yes
+Lanier HS,1.0,0.0,0.0,1.0,8/28/2020,Lanier,yes
+Lilburn ES,1.0,,,1.0,8/21/2020,Meadowcreek,yes
+Lilburn ES,1.0,,,1.0,8/26/2020,Meadowcreek,yes
+Magill ES,3.0,3.0,,6.0,8/21/2020,South Gwinnett,yes
+Magill ES,5.0,,,5.0,8/24/2020,South Gwinnett,yes
+Meadowcreek HS,,,2.0,2.0,8/21/2020,Meadowcreek,yes
+Meadowcreek HS,,,1.0,1.0,8/24/2020,Meadowcreek,yes
+Meadowcreek HS,1.0,0.0,0.0,1.0,8/28/2020,Meadowcreek,yes
+Meadowcreek HS,0.0,0.0,2.0,2.0,8/31/2020,Meadowcreek,yes
+Meadowcreek HS,1.0,,1.0,2.0,8/18/2020,Meadowcreek,yes
+Meadowcreek HS,,,2.0,2.0,8/19/2020,Meadowcreek,yes
+Meadowcreek HS,,,1.0,1.0,8/20/2020,Meadowcreek,yes
+Meadowcreek HS,,,1.0,1.0,8/25/2020,Meadowcreek,yes
+Meadowcreek HS,,,1.0,1.0,8/26/2020,Meadowcreek,yes
+Meadowcreek HS,5.0,0.0,2.0,7.0,9/1/2020,Meadowcreek,yes
+Meadowcreek HS,1.0,0.0,1.0,2.0,9/2/2020,Meadowcreek,yes
+Mountain View HS,,,1.0,1.0,8/21/2020,Mountain View,yes
+Mountain View HS,5.0,0.0,1.0,6.0,8/31/2020,Mountain View,yes
+Mountain View HS,0.0,0.0,4.0,4.0,9/1/2020,Mountain View,yes
+Mountain View HS,2.0,0.0,1.0,3.0,9/2/2020,Mountain View,yes
+Mulberry ES,4.0,,,4.0,8/21/2020,Dacula,yes
+Mulberry ES,0.0,0.0,1.0,1.0,8/28/2020,Dacula,yes
+Mulberry ES,1.0,,3.0,4.0,8/25/2020,Dacula,yes
+Mulberry ES,8.0,0.0,4.0,12.0,9/1/2020,Dacula,yes
+Mulberry ES,0.0,0.0,2.0,2.0,9/2/2020,Dacula,yes
+Norcross HS,,,1.0,1.0,8/21/2020,Norcross,yes
+Norcross HS,,,1.0,1.0,8/18/2020,Norcross,yes
+Norcross HS,,,1.0,1.0,8/20/2020,Norcross,yes
+Norcross HS,1.0,,1.0,2.0,8/26/2020,Norcross,yes
+Norcross HS,0.0,0.0,1.0,1.0,9/2/2020,Norcross,yes
+Parkview HS,,,1.0,1.0,8/21/2020,Parkview,yes
+Parkview HS,0.0,1.0,1.0,2.0,8/28/2020,Parkview,yes
+Parkview HS,5.0,,2.0,7.0,8/18/2020,Parkview,yes
+Parkview HS,,,1.0,1.0,8/19/2020,Parkview,yes
+Parkview HS,1.0,,,1.0,8/20/2020,Parkview,yes
+Parkview HS,1.0,0.0,1.0,2.0,9/1/2020,Parkview,yes
+Peachtree ES,1.0,,,1.0,8/21/2020,Norcross,yes
+Peachtree ES,1.0,,,1.0,8/24/2020,Norcross,yes
+Peachtree ES,1.0,,,1.0,8/19/2020,Norcross,yes
+Pharr ES,5.0,,1.0,6.0,8/21/2020,Grayson,yes
+Pharr ES,1.0,,,1.0,8/26/2020,Grayson,yes
+Pharr ES,1.0,0.0,0.0,1.0,9/1/2020,Grayson,yes
+Pharr ES,1.0,0.0,0.0,1.0,9/2/2020,Grayson,yes
+Puckett's Mill ES,1.0,,,1.0,8/21/2020,Mill Creek,yes
+Puckett's Mill ES,0.0,0.0,1.0,1.0,8/31/2020,Mill Creek,yes
+Puckett's Mill ES,1.0,0.0,1.0,2.0,9/1/2020,Mill Creek,yes
+Stripling ES,,,1.0,1.0,8/21/2020,Norcross,yes
+Stripling ES,,,1.0,1.0,8/19/2020,Norcross,yes
+Stripling ES,,,1.0,1.0,8/20/2020,Norcross,yes
+Sugar Hill ES,1.0,,,1.0,8/21/2020,Lanier,yes
+Sugar Hill ES,0.0,0.0,1.0,1.0,9/1/2020,Lanier,yes
+Sugar Hill ES,0.0,0.0,1.0,1.0,9/2/2020,Lanier,yes
+Total,26.0,5.0,15.0,46.0,8/21/2020,Total,yes
+Total,13.0,2.0,8.0,23.0,8/24/2020,Total,yes
+Total,33.0,4.0,37.0,74.0,8/28/2020,Total,yes
+Total,82.0,1.0,31.0,114.0,8/31/2020,Total,yes
+Total,17.0,3.0,21.0,41.0,8/18/2020,Total,yes
+Total,14.0,6.0,18.0,38.0,8/19/2020,Total,yes
+Total,20.0,2.0,14.0,36.0,8/20/2020,Total,yes
+Total,19.0,5.0,18.0,42.0,8/25/2020,Total,yes
+Total,20.0,0.0,18.0,38.0,8/26/2020,Total,yes
+Total,179.0,4.0,66.0,249.0,9/1/2020,Total,yes
+Total,103.0,2.0,33.0,138.0,9/2/2020,Total,yes
+Benefield ES,1.0,,,1.0,8/24/2020,Discovery,yes
+Benefield ES,1.0,0.0,4.0,5.0,8/28/2020,Discovery,yes
+Benefield ES,0.0,1.0,0.0,1.0,9/1/2020,Discovery,yes
+Centerville ES,,,1.0,1.0,8/24/2020,Shiloh,yes
+Cooper ES,1.0,,,1.0,8/24/2020,Archer,yes
+Cooper ES,1.0,0.0,0.0,1.0,8/31/2020,Archer,yes
+Cooper ES,,,1.0,1.0,8/19/2020,Archer,yes
+Duluth MS,1.0,,,1.0,8/24/2020,Duluth,yes
+Duluth MS,5.0,0.0,1.0,6.0,8/28/2020,Duluth,yes
+Duluth MS,1.0,0.0,0.0,1.0,8/31/2020,Duluth,yes
+Duluth MS,,,1.0,1.0,8/26/2020,Duluth,yes
+Duluth MS,0.0,0.0,2.0,2.0,9/1/2020,Duluth,yes
+Lilburn MS,1.0,,,1.0,8/24/2020,Meadowcreek,yes
+Lilburn MS,1.0,0.0,1.0,2.0,8/28/2020,Meadowcreek,yes
+Lilburn MS,8.0,0.0,6.0,14.0,8/31/2020,Meadowcreek,yes
+Lilburn MS,1.0,,1.0,2.0,8/19/2020,Meadowcreek,yes
+Lilburn MS,1.0,,,1.0,8/20/2020,Meadowcreek,yes
+Lilburn MS,,,1.0,1.0,8/25/2020,Meadowcreek,yes
+Lilburn MS,1.0,,,1.0,8/26/2020,Meadowcreek,yes
+Lilburn MS,0.0,0.0,2.0,2.0,9/2/2020,Meadowcreek,yes
+Maxwell HS of Technology,1.0,,1.0,2.0,8/24/2020,Other,yes
+Northbrook MS,,1.0,,1.0,8/24/2020,Peachtree Ridge,yes
+Norton ES,,,1.0,1.0,8/24/2020,South Gwinnett,yes
+Norton ES,1.0,,,1.0,8/25/2020,South Gwinnett,yes
+Snellville MS,1.0,,1.0,2.0,8/24/2020,South Gwinnett,yes
+South Gwinnett HS,,1.0,,1.0,8/24/2020,South Gwinnett,yes
+South Gwinnett HS,0.0,0.0,1.0,1.0,8/28/2020,South Gwinnett,yes
+South Gwinnett HS,2.0,0.0,1.0,3.0,8/31/2020,South Gwinnett,yes
+South Gwinnett HS,3.0,,,3.0,8/25/2020,South Gwinnett,yes
+South Gwinnett HS,1.0,,,1.0,8/26/2020,South Gwinnett,yes
+South Gwinnett HS,10.0,0.0,1.0,11.0,9/2/2020,South Gwinnett,yes
+Taylor ES,,,1.0,1.0,8/24/2020,Collins Hill,yes
+Taylor ES,0.0,0.0,1.0,1.0,8/31/2020,Collins Hill,yes
+Woodward Mill ES,,,1.0,1.0,8/24/2020,Mountain View,yes
+Woodward Mill ES,1.0,0.0,0.0,1.0,8/31/2020,Mountain View,yes
+Woodward Mill ES,1.0,,2.0,3.0,8/19/2020,Mountain View,yes
+Alcova ES,0.0,0.0,2.0,2.0,8/28/2020,Dacula,yes
+Alcova ES,,,1.0,1.0,8/20/2020,Dacula,yes
+Annistown ES,0.0,0.0,1.0,1.0,8/28/2020,Shiloh,yes
+Annistown ES,1.0,,,1.0,8/19/2020,Shiloh,yes
+Arcado ES,0.0,0.0,1.0,1.0,8/28/2020,Parkview,yes
+Arcado ES,0.0,0.0,1.0,1.0,9/1/2020,Parkview,yes
+Berkmar HS,1.0,0.0,0.0,1.0,8/28/2020,Berkmar,yes
+Berkmar HS,0.0,0.0,1.0,1.0,8/31/2020,Berkmar,yes
+Berkmar HS,,,1.0,1.0,8/18/2020,Berkmar,yes
+Berkmar HS,1.0,,,1.0,8/20/2020,Berkmar,yes
+Berkmar HS,1.0,,,1.0,8/26/2020,Berkmar,yes
+Berkmar HS,70.0,1.0,3.0,74.0,9/1/2020,Berkmar,yes
+Berkmar HS,9.0,0.0,0.0,9.0,9/2/2020,Berkmar,yes
+Buice Center,0.0,0.0,11.0,11.0,8/28/2020,Other,yes
+Buice Center,6.0,0.0,5.0,11.0,8/31/2020,Other,yes
+Buice Center,,,1.0,1.0,8/18/2020,Other,yes
+Buice Center,,,1.0,1.0,8/25/2020,Other,yes
+Chattahoochee ES,1.0,0.0,0.0,1.0,8/28/2020,Duluth,yes
+Duluth HS,4.0,0.0,2.0,6.0,8/28/2020,Duluth,yes
+Duluth HS,0.0,0.0,1.0,1.0,8/31/2020,Duluth,yes
+Duluth HS,3.0,,2.0,5.0,8/18/2020,Duluth,yes
+Duluth HS,1.0,,1.0,2.0,8/19/2020,Duluth,yes
+Duluth HS,1.0,1.0,,2.0,8/20/2020,Duluth,yes
+Duluth HS,1.0,,,1.0,8/25/2020,Duluth,yes
+Duluth HS,1.0,0.0,0.0,1.0,9/2/2020,Duluth,yes
+Duncan Creek ES,0.0,1.0,0.0,1.0,8/28/2020,Mill Creek,yes
+Duncan Creek ES,1.0,0.0,0.0,1.0,8/31/2020,Mill Creek,yes
+Duncan Creek ES,2.0,,,2.0,8/18/2020,Mill Creek,yes
+Duncan Creek ES,2.0,0.0,0.0,2.0,9/1/2020,Mill Creek,yes
+Dyer ES,0.0,0.0,2.0,2.0,8/28/2020,Mountain View,yes
+Dyer ES,5.0,0.0,1.0,6.0,8/31/2020,Mountain View,yes
+Dyer ES,1.0,,,1.0,8/20/2020,Mountain View,yes
+Dyer ES,1.0,0.0,0.0,1.0,9/1/2020,Mountain View,yes
+Dyer ES,2.0,0.0,1.0,3.0,9/2/2020,Mountain View,yes
+Freeman's Mill ES,1.0,0.0,1.0,2.0,8/28/2020,Mountain View,yes
+Freeman's Mill ES,1.0,0.0,1.0,2.0,8/31/2020,Mountain View,yes
+Freeman's Mill ES,2.0,,,2.0,8/20/2020,Mountain View,yes
+Knight ES,1.0,0.0,0.0,1.0,8/28/2020,Parkview,yes
+Knight ES,,,1.0,1.0,8/18/2020,Parkview,yes
+Knight ES,1.0,0.0,0.0,1.0,9/1/2020,Parkview,yes
+Knight ES,0.0,0.0,1.0,1.0,9/2/2020,Parkview,yes
+Moore MS,1.0,0.0,0.0,1.0,8/28/2020,Central Gwinnett,yes
+Moore MS,4.0,0.0,1.0,5.0,9/1/2020,Central Gwinnett,yes
+North Gwinnett HS,0.0,0.0,1.0,1.0,8/28/2020,North Gwinnett,yes
+North Gwinnett HS,,,1.0,1.0,8/20/2020,North Gwinnett,yes
+North Gwinnett HS,1.0,0.0,1.0,2.0,9/1/2020,North Gwinnett,yes
+North Gwinnett HS,3.0,0.0,1.0,4.0,9/2/2020,North Gwinnett,yes
+North Gwinnett MS,0.0,0.0,1.0,1.0,8/28/2020,North Gwinnett,yes
+North Gwinnett MS,1.0,0.0,0.0,1.0,8/31/2020,North Gwinnett,yes
+North Gwinnett MS,,,1.0,1.0,8/18/2020,North Gwinnett,yes
+North Gwinnett MS,1.0,,,1.0,8/20/2020,North Gwinnett,yes
+North Gwinnett MS,1.0,0.0,0.0,1.0,9/2/2020,North Gwinnett,yes
+Osborne MS,3.0,1.0,0.0,4.0,8/28/2020,Mill Creek,yes
+Osborne MS,2.0,0.0,0.0,2.0,8/31/2020,Mill Creek,yes
+Osborne MS,1.0,,,1.0,8/19/2020,Mill Creek,yes
+Osborne MS,,1.0,,1.0,8/20/2020,Mill Creek,yes
+Osborne MS,2.0,0.0,0.0,2.0,9/1/2020,Mill Creek,yes
+Peachtree Ridge HS,0.0,0.0,1.0,1.0,8/28/2020,Peachtree Ridge,yes
+Peachtree Ridge HS,,1.0,,1.0,8/18/2020,Peachtree Ridge,yes
+Peachtree Ridge HS,,,1.0,1.0,8/19/2020,Peachtree Ridge,yes
+Peachtree Ridge HS,0.0,0.0,1.0,1.0,9/1/2020,Peachtree Ridge,yes
+Peachtree Ridge HS,3.0,0.0,0.0,3.0,9/2/2020,Peachtree Ridge,yes
+Rock Springs ES,1.0,0.0,0.0,1.0,8/28/2020,Collins Hill,yes
+Rock Springs ES,,,1.0,1.0,8/18/2020,Collins Hill,yes
+Rock Springs ES,,,1.0,1.0,8/19/2020,Collins Hill,yes
+Rock Springs ES,6.0,0.0,0.0,6.0,9/1/2020,Collins Hill,yes
+Rock Springs ES,0.0,0.0,1.0,1.0,9/2/2020,Collins Hill,yes
+Shiloh ES,0.0,1.0,0.0,1.0,8/28/2020,Shiloh,yes
+Shiloh ES,1.0,,2.0,3.0,8/26/2020,Shiloh,yes
+Shiloh HS,0.0,0.0,1.0,1.0,8/28/2020,Shiloh,yes
+Shiloh HS,2.0,,,2.0,8/25/2020,Shiloh,yes
+Sycamore ES,0.0,0.0,1.0,1.0,8/28/2020,Lanier,yes
+Winn Holt ES,7.0,0.0,1.0,8.0,8/28/2020,Central Gwinnett,yes
+Winn Holt ES,0.0,0.0,1.0,1.0,8/31/2020,Central Gwinnett,yes
+Winn Holt ES,,,1.0,1.0,8/19/2020,Central Gwinnett,yes
+Winn Holt ES,,,1.0,1.0,8/20/2020,Central Gwinnett,yes
+Winn Holt ES,,,1.0,1.0,8/25/2020,Central Gwinnett,yes
+Winn Holt ES,,,1.0,1.0,8/26/2020,Central Gwinnett,yes
+Winn Holt ES,0.0,0.0,1.0,1.0,9/2/2020,Central Gwinnett,yes
+Dacula ES,1.0,0.0,0.0,1.0,8/31/2020,Dacula,added
+Dacula ES,1.0,,,1.0,8/18/2020,Dacula,added
+Dacula ES,1.0,,,1.0,8/26/2020,Dacula,added
+Dacula ES,6.0,0.0,5.0,11.0,9/1/2020,Dacula,added
+Dacula ES,1.0,0.0,0.0,1.0,9/2/2020,Dacula,added
+Dacula HS,1.0,0.0,0.0,1.0,8/31/2020,Dacula,added
+Dacula HS,1.0,0.0,0.0,1.0,9/2/2020,Dacula,added
+Fort Daniel ES,1.0,0.0,0.0,1.0,8/31/2020,Mill Creek,added
+Fort Daniel ES,0.0,0.0,1.0,1.0,9/1/2020,Mill Creek,added
+Fort Daniel ES,0.0,0.0,1.0,1.0,9/2/2020,Mill Creek,added
+Jones MS,1.0,0.0,0.0,1.0,8/31/2020,Mill Creek,added
+Jones MS,1.0,,3.0,4.0,8/26/2020,Mill Creek,added
+Jones MS,2.0,0.0,0.0,2.0,9/1/2020,Mill Creek,added
+Lawrenceville ES,5.0,0.0,1.0,6.0,8/31/2020,Central Gwinnett,added
+Norcross ES,1.0,0.0,0.0,1.0,8/31/2020,Norcross,added
+Norcross ES,3.0,,1.0,4.0,8/26/2020,Norcross,added
+Norcross ES,6.0,0.0,4.0,10.0,9/1/2020,Norcross,added
+Norcross ES,0.0,0.0,1.0,1.0,9/2/2020,Norcross,added
+Oakland Meadow School,0.0,0.0,1.0,1.0,8/31/2020,Other,added
+Oakland Meadow School,3.0,,1.0,4.0,8/25/2020,Other,added
+Oakland Meadow School,1.0,,,1.0,8/26/2020,Other,added
+Oakland Meadow School,1.0,0.0,1.0,2.0,9/1/2020,Other,added
+Oakland Meadow School,2.0,0.0,0.0,2.0,9/2/2020,Other,added
+Radloff MS,1.0,0.0,0.0,1.0,8/31/2020,Meadowcreek,added
+Radloff MS,1.0,0.0,0.0,1.0,9/1/2020,Meadowcreek,added
+Richards MS,7.0,0.0,3.0,10.0,8/31/2020,Discovery,added
+Richards MS,,,1.0,1.0,8/18/2020,Discovery,added
+Richards MS,,,1.0,1.0,8/26/2020,Discovery,added
+Richards MS,0.0,0.0,4.0,4.0,9/1/2020,Discovery,added
+Richards MS,0.0,0.0,1.0,1.0,9/2/2020,Discovery,added
+Riverside ES,1.0,0.0,0.0,1.0,8/31/2020,North Gwinnett,added
+Riverside ES,0.0,0.0,1.0,1.0,9/1/2020,North Gwinnett,added
+Roberts ES,0.0,1.0,0.0,1.0,8/31/2020,North Gwinnett,added
+Twin Rivers MS,26.0,0.0,2.0,28.0,8/31/2020,Mountain View,added
+Twin Rivers MS,2.0,,1.0,3.0,8/20/2020,Mountain View,added
+Twin Rivers MS,1.0,1.0,0.0,2.0,9/1/2020,Mountain View,added
+Collins Hill HS,,,1.0,1.0,8/18/2020,Collins Hill,added
+Collins Hill HS,2.0,,,2.0,8/19/2020,Collins Hill,added
+Collins Hill HS,1.0,0.0,0.0,1.0,9/1/2020,Collins Hill,added
+Crews MS,,1.0,,1.0,8/18/2020,Brookwood,added
+Crews MS,,,1.0,1.0,8/26/2020,Brookwood,added
+Grayson ES,1.0,1.0,,2.0,8/18/2020,Grayson,added
+Grayson ES,,1.0,,1.0,8/19/2020,Grayson,added
+Grayson ES,,,1.0,1.0,8/26/2020,Grayson,added
+Grayson HS,,,3.0,3.0,8/18/2020,Grayson,added
+Grayson HS,1.0,0.0,0.0,1.0,9/2/2020,Grayson,added
+Mill Creek HS,1.0,,,1.0,8/18/2020,Mill Creek,added
+Mill Creek HS,1.0,,,1.0,8/26/2020,Mill Creek,added
+Mill Creek HS,2.0,0.0,1.0,3.0,9/1/2020,Mill Creek,added
+Mill Creek HS,20.0,1.0,0.0,21.0,9/2/2020,Mill Creek,added
+Sweetwater MS,,,1.0,1.0,8/18/2020,Berkmar,added
+Sweetwater MS,,1.0,,1.0,8/25/2020,Berkmar,added
+Sweetwater MS,0.0,0.0,1.0,1.0,9/1/2020,Berkmar,added
+Beaver Ridge ES,,1.0,,1.0,8/19/2020,Norcross,added
+Beaver Ridge ES,0.0,0.0,1.0,1.0,9/1/2020,Norcross,added
+Britt ES,,,2.0,2.0,8/19/2020,South Gwinnett,added
+Britt ES,2.0,0.0,2.0,4.0,9/2/2020,South Gwinnett,added
+Cedar Hill ES,,,1.0,1.0,8/19/2020,Discovery,added
+Cedar Hill ES,1.0,,1.0,2.0,8/20/2020,Discovery,added
+Discovery HS,,,1.0,1.0,8/19/2020,Discovery,added
+Discovery HS,,,1.0,1.0,8/20/2020,Discovery,added
+Discovery HS,,,2.0,2.0,8/25/2020,Discovery,added
+Discovery HS,1.0,0.0,0.0,1.0,9/2/2020,Discovery,added
+Partee ES,,1.0,,1.0,8/19/2020,Shiloh,added
+Summerour MS,1.0,,,1.0,8/19/2020,Norcross,added
+Summerour MS,,,1.0,1.0,8/20/2020,Norcross,added
+Summerour MS,1.0,,,1.0,8/25/2020,Norcross,added
+Summerour MS,0.0,0.0,1.0,1.0,9/2/2020,Norcross,added
+Anderson-Livsey ES,2.0,3.0,,5.0,8/19/2020,Shiloh,added
+Anderson-Livsey ES,,1.0,,1.0,8/25/2020,Shiloh,added
+Dacula MS,1.0,,,1.0,8/20/2020,Dacula,added
+Dacula MS,,1.0,,1.0,8/25/2020,Dacula,added
+Dacula MS,2.0,0.0,1.0,3.0,9/1/2020,Dacula,added
+Mason ES,,,1.0,1.0,8/20/2020,Peachtree Ridge,added
+Minor ES,1.0,,1.0,2.0,8/20/2020,Berkmar,added
+Minor ES,1.0,1.0,0.0,2.0,9/1/2020,Berkmar,added
+Nesbit ES,1.0,,,1.0,8/20/2020,Meadowcreek,added
+Nesbit ES,0.0,0.0,1.0,1.0,9/1/2020,Meadowcreek,added
+Baldwin ES,,,1.0,1.0,8/25/2020,Norcross,added
+Bay Creek MS,,,1.0,1.0,8/25/2020,Grayson,added
+Bay Creek MS,1.0,0.0,0.0,1.0,9/2/2020,Grayson,added
+Brookwood HS,1.0,,1.0,2.0,8/25/2020,Brookwood,added
+Brookwood HS,1.0,,,1.0,8/26/2020,Brookwood,added
+Brookwood HS,0.0,0.0,1.0,1.0,9/1/2020,Brookwood,added
+Brookwood HS,1.0,0.0,0.0,1.0,9/2/2020,Brookwood,added
+Meadowcreek ES,1.0,,,1.0,8/25/2020,Meadowcreek,added
+Meadowcreek ES,,,1.0,1.0,8/26/2020,Meadowcreek,added
+Phoenix HS,,,1.0,1.0,8/25/2020,Other,added
+Pinckneyville MS,1.0,,,1.0,8/25/2020,Norcross,added
+Rockbridge ES,2.0,,,2.0,8/26/2020,Meadowcreek,added
+Rockbridge ES,2.0,0.0,0.0,2.0,9/1/2020,Meadowcreek,added
+Rosebud ES,,,1.0,1.0,8/26/2020,South Gwinnett,added
+Berkeley Lake ES,1.0,0.0,0.0,1.0,9/1/2020,Duluth,added
+Berkeley Lake ES,1.0,0.0,4.0,5.0,9/2/2020,Duluth,added
+Brookwood ES,2.0,0.0,1.0,3.0,9/1/2020,Brookwood,added
+Central Gwinnett HS,2.0,0.0,1.0,3.0,9/1/2020,Central Gwinnett,added
+Chesney ES,0.0,0.0,1.0,1.0,9/1/2020,Duluth,added
+Gwin Oaks ES,1.0,0.0,0.0,1.0,9/1/2020,Brookwood,added
+Gwinnett Online Campus,1.0,0.0,0.0,1.0,9/1/2020,Other,added
+Harmony ES,1.0,0.0,0.0,1.0,9/1/2020,Mill Creek,added
+Jackson ES,1.0,0.0,1.0,2.0,9/1/2020,Peachtree Ridge,added
+Lovin ES,5.0,0.0,2.0,7.0,9/1/2020,Archer,added
+Simonton ES,0.0,0.0,1.0,1.0,9/1/2020,Central Gwinnett,added
+Trickum MS,2.0,0.0,2.0,4.0,9/1/2020,Parkview,added
+Trip ES,0.0,0.0,2.0,2.0,9/1/2020,Grayson,added
+Trip ES,1.0,0.0,0.0,1.0,9/2/2020,Grayson,added
+GIVE West,3.0,0.0,1.0,4.0,9/2/2020,Other,added
+Jenkins ES,20.0,0.0,1.0,21.0,9/2/2020,Central Gwinnett,added
