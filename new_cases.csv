@@ -431,44 +431,105 @@ South Gwinnett HS,1.0,0.0,2.0,3.0,9/4/2020,South Gwinnett,yes
 Twin Rivers MS,8.0,0.0,3.0,11.0,9/4/2020,Mountain View,added
 Woodward Mill ES,1.0,0.0,1.0,2.0,9/4/2020,Mountain View,yes
 Total,68.0,3.0,37.0,108.0,9/4/2020,Total,yes
-Alcova ES,0,0,4,4,9/8/2020,Dacula,yes
-Arcado ES,1,0,0,1,9/8/2020,Parkview,yes
-Baldwin ES,1,0,1,2,9/8/2020,Norcross,added
-Berkmar HS,0,0,1,1,9/8/2020,Berkmar,yes
-Berkmar MS,0,0,1,1,9/8/2020,Berkmar,added
-Bethesda ES,2,0,1,3,9/8/2020,Berkmar,yes
-Britt ES,0,0,1,1,9/8/2020,South Gwinnett,added
-Brookwood HS,1,0,0,1,9/8/2020,Brookwood,added
-Cedar Hill ES,0,0,1,1,9/8/2020,Discovery,added
-Cooper ES,8,0,3,11,9/8/2020,Archer,yes
-Crews MS,2,0,0,2,9/8/2020,Brookwood,added
-Dacula ES,1,0,0,1,9/8/2020,Dacula,added
-Duluth HS,0,0,1,1,9/8/2020,Duluth,yes
-Freeman's Mill ES,4,0,1,5,9/8/2020,Mountain View,yes
-Ivy Creek ES,0,0,1,1,9/8/2020,Mill Creek,yes
-Jackson ES,1,2,1,4,9/8/2020,Peachtree Ridge,added
-Knight ES,1,0,0,1,9/8/2020,Parkview,yes
-Lanier MS,1,0,0,1,9/8/2020,Lanier,added
-Lawrenceville ES,1,0,0,1,9/8/2020,Central Gwinnett,added
-Magill ES,1,0,0,1,9/8/2020,South Gwinnett,yes
-Mason ES,1,0,0,1,9/8/2020,Peachtree Ridge,added
-Maxwell HS of Technology,1,0,0,1,9/8/2020,Other,yes
-Mill Creek HS,0,1,0,1,9/8/2020,Mill Creek,added
-Minor ES,12,2,1,15,9/8/2020,Berkmar,added
-Mountain View HS,1,0,0,1,9/8/2020,Mountain View,yes
-Norcross ES,3,0,4,7,9/8/2020,Norcross,added
-Norcross HS,0,0,1,1,9/8/2020,Norcross,yes
-North Gwinnett MS,28,0,2,30,9/8/2020,North Gwinnett,yes
-Osborne MS,2,0,1,3,9/8/2020,Mill Creek,yes
-Partee ES,1,0,0,1,9/8/2020,Shiloh,added
-Peachtree ES,5,0,3,8,9/8/2020,Norcross,yes
-Peachtree Ridge HS,1,0,0,1,9/8/2020,Peachtree Ridge,yes
-Richards MS,0,0,1,1,9/8/2020,Discovery,added
-Simonton ES,6,0,0,6,9/8/2020,Central Gwinnett,added
-South Gwinnett HS,1,0,0,1,9/8/2020,South Gwinnett,yes
-Summerour MS,0,1,0,1,9/8/2020,Norcross,added
-Suwanee ES,7,0,0,7,9/8/2020,North Gwinnett,added
-Twin Rivers MS,1,0,1,2,9/8/2020,Mountain View,added
-Winn Holt ES,7,0,2,9,9/8/2020,Central Gwinnett,yes
-Woodward Mill ES,1,0,0,1,9/8/2020,Mountain View,yes
-Total,104,7,37,148,9/8/2020,Total,yes
+Alcova ES,0.0,0.0,4.0,4.0,9/8/2020,Dacula,yes
+Arcado ES,1.0,0.0,0.0,1.0,9/8/2020,Parkview,yes
+Baldwin ES,1.0,0.0,1.0,2.0,9/8/2020,Norcross,added
+Berkmar HS,0.0,0.0,1.0,1.0,9/8/2020,Berkmar,yes
+Berkmar MS,0.0,0.0,1.0,1.0,9/8/2020,Berkmar,added
+Bethesda ES,2.0,0.0,1.0,3.0,9/8/2020,Berkmar,yes
+Britt ES,0.0,0.0,1.0,1.0,9/8/2020,South Gwinnett,added
+Brookwood HS,1.0,0.0,0.0,1.0,9/8/2020,Brookwood,added
+Cedar Hill ES,0.0,0.0,1.0,1.0,9/8/2020,Discovery,added
+Cooper ES,8.0,0.0,3.0,11.0,9/8/2020,Archer,yes
+Crews MS,2.0,0.0,0.0,2.0,9/8/2020,Brookwood,added
+Dacula ES,1.0,0.0,0.0,1.0,9/8/2020,Dacula,added
+Duluth HS,0.0,0.0,1.0,1.0,9/8/2020,Duluth,yes
+Freeman's Mill ES,4.0,0.0,1.0,5.0,9/8/2020,Mountain View,yes
+Ivy Creek ES,0.0,0.0,1.0,1.0,9/8/2020,Mill Creek,yes
+Jackson ES,1.0,2.0,1.0,4.0,9/8/2020,Peachtree Ridge,added
+Knight ES,1.0,0.0,0.0,1.0,9/8/2020,Parkview,yes
+Lanier MS,1.0,0.0,0.0,1.0,9/8/2020,Lanier,added
+Lawrenceville ES,1.0,0.0,0.0,1.0,9/8/2020,Central Gwinnett,added
+Magill ES,1.0,0.0,0.0,1.0,9/8/2020,South Gwinnett,yes
+Mason ES,1.0,0.0,0.0,1.0,9/8/2020,Peachtree Ridge,added
+Maxwell HS of Technology,1.0,0.0,0.0,1.0,9/8/2020,Other,yes
+Mill Creek HS,0.0,1.0,0.0,1.0,9/8/2020,Mill Creek,added
+Minor ES,12.0,2.0,1.0,15.0,9/8/2020,Berkmar,added
+Mountain View HS,1.0,0.0,0.0,1.0,9/8/2020,Mountain View,yes
+Norcross ES,3.0,0.0,4.0,7.0,9/8/2020,Norcross,added
+Norcross HS,0.0,0.0,1.0,1.0,9/8/2020,Norcross,yes
+North Gwinnett MS,28.0,0.0,2.0,30.0,9/8/2020,North Gwinnett,yes
+Osborne MS,2.0,0.0,1.0,3.0,9/8/2020,Mill Creek,yes
+Partee ES,1.0,0.0,0.0,1.0,9/8/2020,Shiloh,added
+Peachtree ES,5.0,0.0,3.0,8.0,9/8/2020,Norcross,yes
+Peachtree Ridge HS,1.0,0.0,0.0,1.0,9/8/2020,Peachtree Ridge,yes
+Richards MS,0.0,0.0,1.0,1.0,9/8/2020,Discovery,added
+Simonton ES,6.0,0.0,0.0,6.0,9/8/2020,Central Gwinnett,added
+South Gwinnett HS,1.0,0.0,0.0,1.0,9/8/2020,South Gwinnett,yes
+Summerour MS,0.0,1.0,0.0,1.0,9/8/2020,Norcross,added
+Suwanee ES,7.0,0.0,0.0,7.0,9/8/2020,North Gwinnett,added
+Twin Rivers MS,1.0,0.0,1.0,2.0,9/8/2020,Mountain View,added
+Winn Holt ES,7.0,0.0,2.0,9.0,9/8/2020,Central Gwinnett,yes
+Woodward Mill ES,1.0,0.0,0.0,1.0,9/8/2020,Mountain View,yes
+Total,104.0,7.0,37.0,148.0,9/8/2020,Total,yes
+Alcova ES,0,0,1,1,9/9/2020,Dacula,yes
+Archer HS,9,0,2,11,9/9/2020,Archer,yes
+Berkmar HS,0,0,1,1,9/9/2020,Berkmar,yes
+Berkmar MS,1,0,1,2,9/9/2020,Berkmar,added
+Bethesda ES,1,0,1,2,9/9/2020,Berkmar,yes
+Brookwood ES,0,0,1,1,9/9/2020,Brookwood,added
+Brookwood HS,3,0,3,6,9/9/2020,Brookwood,added
+Buice Center,1,0,0,1,9/9/2020,Other,yes
+Cedar Hill ES,0,0,1,1,9/9/2020,Discovery,added
+Chattahoochee ES,2,0,1,3,9/9/2020,Duluth,yes
+Cooper ES,1,0,0,1,9/9/2020,Archer,yes
+Dacula ES,1,1,0,2,9/9/2020,Dacula,added
+Duluth HS,0,0,1,1,9/9/2020,Duluth,yes
+Duluth MS,0,1,1,2,9/9/2020,Duluth,yes
+Duncan Creek ES,2,1,1,4,9/9/2020,Mill Creek,yes
+Five Forks MS,2,0,0,2,9/9/2020,Brookwood,added
+Fort Daniel ES,1,0,0,1,9/9/2020,Mill Creek,added
+Freeman's Mill ES,2,0,0,2,9/9/2020,Mountain View,yes
+GIVE East,1,1,0,2,9/9/2020,Other,yes
+GIVE West,0,0,1,1,9/9/2020,Other,added
+Graves ES,7,0,0,7,9/9/2020,Meadowcreek,yes
+Grayson ES,7,0,3,10,9/9/2020,Grayson,added
+Harbins ES,0,0,1,1,9/9/2020,Archer,yes
+Hopkins ES,5,0,1,6,9/9/2020,Berkmar,added
+Hull MS,0,0,2,2,9/9/2020,Peachtree Ridge,yes
+Ivy Creek ES,0,0,2,2,9/9/2020,Mill Creek,yes
+Knight ES,0,0,1,1,9/9/2020,Parkview,yes
+Lanier HS,0,0,1,1,9/9/2020,Lanier,yes
+Lawrenceville ES,3,2,1,6,9/9/2020,Central Gwinnett,added
+Lilburn ES,8,0,0,8,9/9/2020,Meadowcreek,yes
+Lilburn MS,0,0,1,1,9/9/2020,Meadowcreek,yes
+Mason ES,5,0,0,5,9/9/2020,Peachtree Ridge,added
+Mill Creek HS,10,6,0,16,9/9/2020,Mill Creek,added
+Mulberry ES,3,0,0,3,9/9/2020,Dacula,yes
+Norcross HS,2,0,0,2,9/9/2020,Norcross,yes
+North Gwinnett HS,3,1,3,7,9/9/2020,North Gwinnett,yes
+North Gwinnett MS,1,1,0,2,9/9/2020,North Gwinnett,yes
+Norton ES,1,0,0,1,9/9/2020,South Gwinnett,yes
+Oakland Meadow School,0,0,2,2,9/9/2020,Other,added
+Osborne MS,1,0,1,2,9/9/2020,Mill Creek,yes
+Parkview HS,2,0,0,2,9/9/2020,Parkview,yes
+Partee ES,1,0,0,1,9/9/2020,Shiloh,added
+Paul Duke STEM HS,0,0,1,1,9/9/2020,Norcross,added
+Peachtree Ridge HS,10,1,0,11,9/9/2020,Peachtree Ridge,yes
+Pharr ES,1,0,0,1,9/9/2020,Grayson,yes
+Pinckneyville MS,1,0,0,1,9/9/2020,Norcross,added
+Puckett's Mill ES,2,0,0,2,9/9/2020,Mill Creek,yes
+Radloff MS,1,0,2,3,9/9/2020,Meadowcreek,added
+Richards MS,0,0,1,1,9/9/2020,Discovery,added
+Shiloh ES,1,0,0,1,9/9/2020,Shiloh,yes
+Simpson ES,3,0,1,4,9/9/2020,Norcross,added
+South Gwinnett HS,2,0,1,3,9/9/2020,South Gwinnett,yes
+Starling ES,0,1,0,1,9/9/2020,Grayson,added
+Sugar Hill ES,1,0,0,1,9/9/2020,Lanier,yes
+Sycamore ES,3,0,0,3,9/9/2020,Lanier,yes
+Taylor ES,0,0,2,2,9/9/2020,Collins Hill,yes
+Trickum MS,1,0,0,1,9/9/2020,Parkview,added
+White Oak ES,3,0,0,3,9/9/2020,Lanier,added
+Winn Holt ES,5,0,1,6,9/9/2020,Central Gwinnett,yes
+Woodward Mill ES,1,0,1,2,9/9/2020,Mountain View,yes
+Total,143,16,46,205,9/9/2020,Total,yes
